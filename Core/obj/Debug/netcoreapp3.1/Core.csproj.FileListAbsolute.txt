@@ -1,0 +1,9 @@
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "YppSOev2wferJNzUuAeMPUvioF4zDwf0PwZwvnb6C6ehJCJHnuF1t1sa62ZyZcp6wGBKeHCWDeL9MUZZLTtz7Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Hüseyin Öztürk\\source\\repos\\MyEArgeProject\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Business is not compatible with netcoreapp3.0 (.NETCoreApp,Version=v3.0). Project Business supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Business",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Entities is not compatible with netcoreapp3.0 (.NETCoreApp,Version=v3.0). Project Entities supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Entities",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

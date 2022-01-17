@@ -1,0 +1,14 @@
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

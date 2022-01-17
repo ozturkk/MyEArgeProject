@@ -1,0 +1,5 @@
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csprojAssemblyReference.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfo.cs
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Öztürk\source\repos\MyEArgeProject\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
